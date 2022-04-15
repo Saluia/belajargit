@@ -2,4 +2,4 @@
 
 hallo nama saya via
 
-hallo ini pertama kalinya saya menulis di git
+hallo ini pertama kalinya saya menulis 
